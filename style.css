@@ -1,0 +1,167 @@
+header{
+
+  width: 100px;
+  margin: auto;
+  display: block;
+}
+
+
+#logo{
+    margin-left: auto;
+    margin-right: auto;
+    width: 12vw;
+    height: 12vh;
+    display: block;
+}
+
+
+
+#menu{
+    background-color: #de1a1a;
+    height: 25px;
+    color: white;
+    position: absolute;
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    height: 3vh;
+
+}
+.conti{
+display: inline-block;
+
+}
+#box{
+   width: 40vw;
+   height: 60vh;
+   margin-right: 10px;
+   display: inline-block;
+   margin-left: 5vw;
+   
+   
+   
+}
+
+.intro{
+
+    display: block;
+    width: 100%;
+    border: none;
+}
+
+.thead{
+   text-align: right;
+   text-indent: 5vw;
+   margin-right: 5vw;
+   text-decoration-line: none;
+   text-decoration-style: solid;
+   font-size: 50px;
+   left: 250px;
+   letter-spacing: -0.3px;
+   
+   
+}
+
+
+
+#headp{
+    margin-right: 5vw;
+    left: 250px; 
+    text-align: right;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    font-size: 20px;
+    letter-spacing: -0.3px;
+}
+
+
+button{
+    background-color: #de1a1a;
+}
+
+.header2{
+    width: 1192px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right:auto ;
+   
+}
+
+.img1{
+    position: absolute;
+    top: 150vh;
+    margin-right:auto;
+    margin-left: 56vw;
+}
+
+.img2{
+    position: absolute;
+    top: 220vh;
+    margin-right:auto;
+    margin-left: 56vw;
+}
+
+.img3{
+    position: absolute;
+    top: 150vh;
+    margin-right:auto;
+    margin-left: 76vw;
+}
+
+
+#text1{
+   background-color: #de1a1a;
+   color:white;
+   padding: 13px 8px;
+   text-decoration: none;
+   display: flex;
+   width: 39vw;
+   height: 10vh;
+   margin-top: 30px;
+   margin-left: 5vw;
+   
+}
+
+#text2{
+    background-color: #1417ac;
+    color:white;
+    padding: 13px 8px;
+    text-decoration: none;
+    display: flex;
+    width: 39vw;
+    height: 13vh;
+    margin-top: 10px;
+    margin-left: 5vw;
+}
+
+#text3{
+    background-color:#de1a1a;
+    color:white;
+    padding: 13px 8px;
+    text-decoration: none;
+    display: flex;
+    width: 39vw;
+    height: 15vh;
+    margin-top: 10px;
+    margin-left: 5vw;
+}
+
+#vid{
+    text-decoration: none;
+    color: white;
+}
+
+.par1{
+    display:inline-block;
+    position: absolute;
+    top: 60vh;
+    margin-right:auto;
+    margin-left: 25vw;
+    
+    
+}
+
+
+
